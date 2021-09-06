@@ -1,5 +1,5 @@
 {
-  "name": "@tesla/eslint-config-rax",
+  "name": "@teslao/eslint-config-rax",
   "version": "0.0.1",
   "description": "A universal tslint config.",
   "license": "BSD-3-Clause",
